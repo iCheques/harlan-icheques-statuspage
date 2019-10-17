@@ -1,0 +1,48 @@
+{
+  "_from": "harlan-icheques-statuspage",
+  "_id": "harlan-icheques-statuspage@1.0.14",
+  "_inBundle": false,
+  "_integrity": "sha512-Ofi9CssPjZJLwDOvh5cH9ujNd9xfEGmajBuC97W2VdMSImWy7J90skaEXZmBAAEK+ZBLDiCQUjCY9YCR0utp3A==",
+  "_location": "/harlan-icheques-statuspage",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "harlan-icheques-statuspage",
+    "name": "harlan-icheques-statuspage",
+    "escapedName": "harlan-icheques-statuspage",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/harlan-icheques-statuspage/-/harlan-icheques-statuspage-1.0.14.tgz",
+  "_shasum": "4b2ecb0ae15a196754e06c4d494fd5a8f6f67173",
+  "_spec": "harlan-icheques-statuspage",
+  "_where": "/home/davi/Documentos/teste",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Extensão que habilita o monitoramento da StatusPage.io",
+  "devDependencies": {
+    "cpf_cnpj": "^0.2.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3",
+    "rollup": "^1.12.5",
+    "rollup-plugin-buble": "^0.19.6",
+    "rollup-plugin-commonjs": "^10.0.0",
+    "rollup-plugin-node-resolve": "^5.0.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "harlan-icheques-statuspage",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.14"
+}
